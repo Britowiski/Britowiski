@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Britowiski
+- 👋 Hi, I’m Wendell
 - 👀 I’m interested in learn Python, C and Java
-- 🌱 I’m currently focus on Java
+- 🌱 Now i'm currently focus on Java
 - 📫 How to reach me on instagram @wendell.briito and LinkedIn: Wendell Brito
 - 😄 Pronouns: He/Him
 
