@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wendell
-- 👀 I’m interested in learn Python, Javascript, NodeJs, React and Java
-- 🌱 Now i'm currently focus on Java
+- 👀 I’m interested in learn All the path as DevOps (Docker, Terraform, Kuberntes etc).
+- 🌱 Now i'm currently focus on Cloud
 - 📫 How to reach me on instagram @wendell.briito and LinkedIn: Wendell Brito
 - 😄 Pronouns: He/Him
 
