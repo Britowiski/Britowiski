@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wendell
 - 👀 I’m interested in learn All the path as DevOps (Docker, Terraform, Kuberntes etc).
 - 🌱 Now i'm currently focus on Cloud
-- 📫 How to reach me on instagram @wendell.briito and LinkedIn: Wendell Brito
+- 📫 How to reach me on LinkedIn: Wendell Brito
 - 😄 Pronouns: He/Him
 
 <!---
